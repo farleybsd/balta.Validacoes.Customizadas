@@ -1,2 +1,7 @@
 ## Criando Projeto
 dotnet new webapi -o Validaxion -f net5.0
+
+## builtin c# validation
+
+# Rodando Aplicacao
+dotnet watch run
