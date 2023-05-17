@@ -1,0 +1,2 @@
+## Criando Projeto
+dotnet new webapi -o Validaxion -f net5.0
